@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lightblue;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+main h1 {
+    color: orange;
+    text-align: center;
+}
+
+footer p {
+    background-color: rgb(58, 241, 58);
+    padding: 7px;
+}
+
+nav a {
+    margin: 50px;
+    text-decoration: none;
+    color: white;
+}
+
+nav {
+    background-color: darkgreen;
+    padding: 7px;
+    border-radius: 7px;
+}
+
+.szakaev {
+    background-color: brown;
+    padding: 7px;
+    border-radius: 7px;
+}
+
+h2 {
+    color: blue;
+}
